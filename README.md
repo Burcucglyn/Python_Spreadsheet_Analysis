@@ -5,19 +5,19 @@ In this project, my goal was to address four coding-related questions. For this 
 
 Here are the 4 questions:
 1) How to read the data from the spreadsheet?
-• Import the Pandas library to my phycarm.
-• Find the pathway for the sales file.
-• Used the print command for reading.
+Import the Pandas library to my phycarm.
+Find the pathway for the sales file.
+Used the print command for reading.
 2) How can I collect all of the sales from each month into a single list?
 Monthly Sales: [6226, 1521, 1842, 2051, 1728, 2138, 7479, 4434, 3615, 5472, 7224, 1812]   
-• Using loops.
-• Used the print command if it's a correct code.  
+Using loops.
+Use the print command if it's the correct code.  
 3) How to output the total sales across all months?
-• Using the monthly sales list, and defining to system first. Calculate the total sales using sum function to add up al the values in the list.
+Using the monthly sales list, and defining to system first. Calculate the total sales using sum function to add up al the values in the list.
 total sales across all months: 45542
 4) Create a simple bar chart to visualize monthly sales
-• Import the Matplotlib library to my phycarm.
-• Create a simple bar chart to visualize monthly sales.
+Import the Matplotlib library to my phycarm.
+Create a simple bar chart to visualize monthly sales.
 
 
 Learnings:
